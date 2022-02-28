@@ -1,4 +1,5 @@
 # Deep-Learning 
-Project: Covid prediction using Chest X-Rays.
-Deep Learning Model: Transfer Learning
-Youtube link: https://www.youtube.com/watch?v=oKhzCx0LdWo
+<br>
+<b>Project</b>: Covid prediction using Chest X-Rays.<br>
+<b>Deep Learning Model</b>: Transfer Learning<br>
+<b>Youtube link</b>:    https://www.youtube.com/watch?v=oKhzCx0LdWo
